@@ -54,3 +54,8 @@ You can also run the files manually in this order:
 ## Why It Is On GitHub
 
 This repository is a small academic project that I keep as part of my portfolio. The goal is to show practical work with Oracle SQL, PL/SQL, database design, and basic CRUD-oriented web functionality.
+
+![menu](IMG/mainmenu.png)
+![games](IMG/games.png)
+![comments](IMG/comments.png)
+![adding_game](IMG/add_game.png)
